@@ -5,8 +5,8 @@ I mainly work with **Python**, use some **JavaScript**, and I'm currently learni
 Right now, I'm exploring the math behind AI to rebuild a reinforcement learning model using **NumPy**.
 
 ## ✉️ Contact me
--**Mail**: blanc.luca2011@gmail.com
--**Discord**: luca04688
+- **Mail**: blanc.luca2011@gmail.com
+- **Discord**: luca04688
 
 ## 🛠️ Technologies & Gear I Use
 
