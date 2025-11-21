@@ -1,6 +1,7 @@
 ## 👋 About Me
 
 Hi! I'm **Luca**, a 14-year-old French developer passionate about programming, electronics, and AI.  
+I also speak a little English  
 I mainly work with **Python**, use some **JavaScript**, and I'm currently learning **C++**.  
 Right now, I'm exploring the math behind AI to rebuild a reinforcement learning model using **NumPy**.
 
