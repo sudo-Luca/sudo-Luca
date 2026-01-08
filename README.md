@@ -34,7 +34,7 @@ Right now, I'm exploring the math behind AI to rebuild a reinforcement learning 
 - Dell Latitude E7440  
 - Google Pixel 7
 - Gaming computer :
-  - Ryzen 7 7500x
+  - Ryzen 7 5700x
   - Rtx 5060
   - 2x16go ram ddr4
   - 750w alim
