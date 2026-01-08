@@ -27,6 +27,7 @@ Right now, I'm exploring the math behind AI to rebuild a reinforcement learning 
 - Reinforcement learning from scratch (NumPy)  
 - Low-level programming & embedded systems  
 - Understanding how AI works internally
+- Learning Web Dev
 
 ## 💻 Devices I Use
 
@@ -46,3 +47,4 @@ Right now, I'm exploring the math behind AI to rebuild a reinforcement learning 
 - Improve at C++ and embedded development  
 - Create more Python projects  
 - Share and learn with the community
+- Make my own website
