@@ -25,7 +25,7 @@ Right now, I'm exploring the math behind AI to rebuild a reinforcement learning 
 
 - Math behind neural networks  
 - Reinforcement learning from scratch (NumPy)  
-- Low-level programming & embedded systems  
+- Mid-level programming & embedded systems  
 - Understanding how AI works internally
 - Learning Web Dev
 
