@@ -39,6 +39,8 @@ Right now, I'm exploring the math behind AI to rebuild a reinforcement learning 
   - 2x16go ram ddr4
   - 750w alim
   - 1t ssd
+  - 1t hdd
+  - 2t hdd
   - win 11 pro
 
 ## 🎯 Goals
