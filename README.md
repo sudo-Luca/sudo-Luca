@@ -32,12 +32,12 @@ Right now, I'm exploring the math behind AI to rebuild a reinforcement learning 
 ## 💻 Devices I Use
 
 - Dell Latitude E7440  
-- Google Pixel 7
+- Google Pixel 7 pro
 - Gaming computer :
   - Ryzen 7 5700x
   - Rtx 5060
   - 2x16go ram ddr4
-  - 750w alim
+  - 750w psu
   - 1t ssd
   - 1t hdd
   - 2t hdd
