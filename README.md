@@ -15,7 +15,7 @@ Right now, I'm exploring the math behind AI to rebuild a reinforcement learning 
 - **Hardware & Firmware Projects**:
   - Raspberry Pi 4B  
   - M5Stick C Plus 2 (Bruce firmware)
-  - T-embed cc1101 (Bruce firmware) 
+  - T-embed cc1101 plus (Bruce firmware) 
   - Flipper Zero (Momentum 12, Wi-Fi devboard, CC1101, NRF24)  
   - Arduino / embedded tinkering
   - **3D Printing**: Ender 3 V3 KE  
